@@ -1,0 +1,10 @@
+            <li>Central air conditioning</li>
+            <li>Hot & cold water</li>
+            <li>Cable television with over 84 channels</li>
+            <li>Comfortable working desk with table lamp</li>
+            <li>High Speed Internet access</li>
+            <li>In room safe (suite only)</li>
+            <li>Doctor on call</li>
+            <li>24 hours room services</li>
+            <li>Conference and Banquet facility</li>
+            <li>Airport transfer</li>
