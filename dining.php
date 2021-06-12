@@ -18,7 +18,7 @@ body{
 
 
 <body>
-    <table border="2px solid black" width="100%" style="background-color: #99ceff;">
+    <table border="2px border solid black" width="100%" style="background-color: #99ceff;">
         <tr>
             <th style="font-size: large;"><b>HOTEL PRADADISE</b></th>
             <th><a href="index.php">Home</a></th>

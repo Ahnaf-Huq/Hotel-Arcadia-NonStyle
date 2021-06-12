@@ -15,7 +15,8 @@
 </style>
 
 <body>
-    <table border="2px solid black" width="100%" style="background-color: #99ceff;">
+<!-- Banner -->
+    <table border="2px solid black" width="100%" class="navbar" style="background-color: #99ceff;">
         <tr>
             <th style="font-size: large;"><b>HOTEL PRADADISE</b></th>
             <th><a href="#">Home</a></th>
@@ -33,7 +34,6 @@
         </tr>
     </table>
     <br>
-
     <table border="2px solid black">
         <tr>
             <td>
@@ -62,7 +62,7 @@
             <table border="2px solid black" width="100%">
                 <tr>
                     <td>
-                        <img src="./Images/room1.png" alt="no room">
+                        <img src="./Images/." alt="no room">
                     </td>
                     <td>
                         <img src="./Images/room2.png" alt="no room">

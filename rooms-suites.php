@@ -10,6 +10,7 @@
 <style>
 body{
     background-color:#cce6ff;
+    padding:5px;
 }
 
 </style>
@@ -69,6 +70,7 @@ body{
     </table>
     <br>
     <br>
+    <br><br><br><br><br>
 
     <footer style="background-color: #0066cc;">
         <table style="background-color: none; border:5px">
